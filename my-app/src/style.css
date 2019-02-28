@@ -1,0 +1,17 @@
+.ui.borderless.topmenu.menu {
+  box-shadow: none;
+  border: none;
+}
+
+.main-background{
+  background: url('//cdn.shopify.com/s/files/1/1300/6871/files/sherpacoat-banner.3_2880x1376_crop_center.jpg?v=1549398657') no-repeat center center fixed;
+  background-size: cover;
+  height: 700px;
+}
+
+.footer-menu {
+  background-color: black;
+  color: white;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
